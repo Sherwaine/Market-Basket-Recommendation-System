@@ -34,8 +34,8 @@ Follow these steps to set up the environment:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Sherwaine/market-basket-recommendation.git
-    cd market-basket-recommendation
+    git clone https://github.com/Sherwaine/Market-Basket-Recommendation-System.git
+    cd Market-Basket-Recommendation-System
     ```
 
 2. **Create a virtual environment** (optional but recommended):
